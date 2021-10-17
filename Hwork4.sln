@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hwork4.1", "Hwork4.1\Hwork4.1.csproj", "{F73213B6-BC76-4FAB-A04D-CF5879D1EB87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hwork4.2", "Hwork4.2\Hwork4.2.csproj", "{9F7E0E7F-50B7-4459-B9A0-C8BBB48764EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hwork4.3", "Hwork4.3\Hwork4.3.csproj", "{C0EB2672-1ABD-4716-9349-D765043846F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F73213B6-BC76-4FAB-A04D-CF5879D1EB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73213B6-BC76-4FAB-A04D-CF5879D1EB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73213B6-BC76-4FAB-A04D-CF5879D1EB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73213B6-BC76-4FAB-A04D-CF5879D1EB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7E0E7F-50B7-4459-B9A0-C8BBB48764EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7E0E7F-50B7-4459-B9A0-C8BBB48764EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7E0E7F-50B7-4459-B9A0-C8BBB48764EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7E0E7F-50B7-4459-B9A0-C8BBB48764EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EB2672-1ABD-4716-9349-D765043846F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EB2672-1ABD-4716-9349-D765043846F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EB2672-1ABD-4716-9349-D765043846F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EB2672-1ABD-4716-9349-D765043846F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9BA74B-2849-4E64-9AAB-94D2BD3B457A}
+	EndGlobalSection
+EndGlobal
